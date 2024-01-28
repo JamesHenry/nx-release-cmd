@@ -1,0 +1,11 @@
+{
+  "name": "nx-release-cmd",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@nx/js": "17.3.0-rc.1",
+    "nx": "17.3.0-rc.1"
+  }
+}
