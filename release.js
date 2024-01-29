@@ -33,8 +33,4 @@ const yargs = require("yargs");
     dryRun: options.dryRun,
     verbose: options.verbose,
   });
-  await releasePublish({
-    dryRun: options.dryRun,
-    verbose: options.verbose,
-  });
 })();
