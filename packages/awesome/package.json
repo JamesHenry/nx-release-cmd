@@ -1,8 +1,8 @@
 {
   "name": "awesome",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "main": "index.js",
   "dependencies": {
-    "utils": "1.4.0"
+    "utils": "1.5.0"
   }
 }

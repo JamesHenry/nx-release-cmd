@@ -1,3 +1,19 @@
+## 1.5.0 (2024-01-29)
+
+
+### 🚀 Features
+
+- **awesome:** feature ([f268ac4](https://github.com/JamesHenry/nx-release-cmd/commit/f268ac4))
+- **awesome:** feature ([811e047](https://github.com/JamesHenry/nx-release-cmd/commit/811e047))
+
+### 🩹 Fixes
+
+- **awesome:** bug fix ([89d3bce](https://github.com/JamesHenry/nx-release-cmd/commit/89d3bce))
+
+### ❤️  Thank You
+
+- “JamesHenry” @JamesHenry
+
 ## 1.4.0 (2024-01-29)
 
 
