@@ -1,1 +1,8 @@
-{}
+{
+    "release": {
+        "projects": ["awesome", "utils"],
+        "version": {
+            "conventionalCommits": true
+        }
+    }
+}
