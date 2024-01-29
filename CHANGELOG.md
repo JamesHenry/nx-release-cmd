@@ -1,18 +1,3 @@
-## 1.4.1 (2024-01-29)
-
-
-### 🩹 Fixes
-
-- **awesome:** bug fix ([89d3bce](https://github.com/JamesHenry/nx-release-cmd/commit/89d3bce))
-
-### ❤️  Thank You
-
-- “JamesHenry” @JamesHenry
-
-## 1.5.0 (2024-01-29)
-
-This was a version bump only, there were no code changes.
-
 ## 1.4.0 (2024-01-29)
 
 
