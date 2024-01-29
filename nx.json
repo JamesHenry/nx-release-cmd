@@ -3,6 +3,11 @@
         "projects": ["awesome", "utils"],
         "version": {
             "conventionalCommits": true
+        },
+        "changelog": {
+            "workspaceChangelog": {
+                "createRelease": "github"
+            }
         }
     }
 }
