@@ -1,3 +1,7 @@
+## 9.9.11 (2024-01-29)
+
+This was a version bump only, there were no code changes.
+
 ## 9.9.10 (2024-01-29)
 
 This was a version bump only, there were no code changes.
