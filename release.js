@@ -1,9 +1,5 @@
 // @ts-check
-const {
-  releaseVersion,
-  releaseChangelog,
-  releasePublish,
-} = require("nx/release");
+const { releaseVersion, releaseChangelog } = require("nx/release");
 const yargs = require("yargs");
 
 (async () => {
@@ -27,10 +23,11 @@ const yargs = require("yargs");
     dryRun: options.dryRun,
     verbose: options.verbose,
   });
-  await releaseChangelog({
+  const status = await releaseChangelog({
     version: workspaceVersion,
     versionData: projectsVersionData,
     dryRun: options.dryRun,
     verbose: options.verbose,
   });
+  process.exit(status);
 })();
