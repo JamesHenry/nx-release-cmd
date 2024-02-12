@@ -5,8 +5,8 @@
     "packages/*"
   ],
   "devDependencies": {
-    "@nx/js": "18.0.3",
-    "nx": "18.0.3",
+    "@nx/js": "18.0.4",
+    "nx": "18.0.4",
     "yargs": "^17.7.2"
   }
 }
